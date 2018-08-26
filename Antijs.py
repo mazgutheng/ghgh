@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import Rizal
 from Rizal.linepy import *
 from Rizal.akad.ttypes import Message
 from Rizal.akad.ttypes import ContentType as Type
